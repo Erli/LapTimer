@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.LapTimer"
     android:versionCode="1"
@@ -14,8 +14,8 @@
 
     <application>
         <activity
-            android:name="LapTimer"
-            android:label="LapTimer" >
+            android:name=".LapTimer"
+            android:label="@string/title_activity_main" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

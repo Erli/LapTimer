@@ -1,6 +1,4 @@
-package LapTimer;
-
-import com.LapTimer.*;
+package com.LapTimer;
 
 import android.app.Activity;
 import android.content.Context;
